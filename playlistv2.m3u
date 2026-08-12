@@ -31,3 +31,11 @@ https://7.tvlibre.pe/espn4/mono.m3u8?token=3777aaaa39b37e18bb1b17408b78479e9976a
 https://bmf0aw9u.fubo18.com/winsports/mono.m3u8?token=837681d373d7038d93d862088a39a55a83da2871-f6-1786570210-1786552210
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png",Win Sports +
 https://s1.tudeporteshoy.xyz/winplus/tracks-v1a1/mono.m3u8?ip=45.229.73.81&token=f8896057b168169205c959e819c681ef53bf61f2-19-1786598217-1786544217
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",TNT Sport Premium
+https://5.tvlibre.pe/tntsportschile/mono.m3u8?token=33a5a54e8b9b5a79c5e737947f048c9b1791f373-c6-1786581000-1786563000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",ECUAVISA
+https://4.tvlibre.pe/ecdf/mono.m3u8?token=ed13d99722dcc5958fdd8dbf9f99999d4090ab1c-25-1786581108-1786563108
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUND
+https://2.tvlibre.pe/tudn/mono.m3u8?token=9902d365e5f0d16bf45ccd9d6b8d894cc32be5ba-66-1786581223-1786563223
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/32/ClaroSportsLogo.png/revision/latest?cb=20151222200513&path-prefix=es",Claro Sports
+https://se.tudeporteshoy.xyz/clarosports/tracks-v1a1/mono.m3u8?ip=45.229.73.81&token=228127fe532dab6371dd7a05d8e51f403097b6b2-b7-1786609249-1786555249
