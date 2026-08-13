@@ -1,41 +1,437 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ESPN 2
-https://3.tvlibre.pe/espn2/mono.m3u8?token=636f555d772f963c0a008976a8da32196fd57262-c5-1786563613-1786545613
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ESPN
-https://5.tvlibre.pe/espn/mono.m3u8?token=db288dc2b62b613ec9b0a67de9cc9113af8c7652-9f-1786563688-1786545688
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
-https://4.tvlibre.pe/espn3/mono.m3u8?token=e2d6a3a33b7dbba091a0c1aef3f694d456e05bf6-ed-1786563778-1786545778
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",Dsport
-https://6.tvlibre.pe/dsports/mono.m3u8?token=1ea9a0285f0336196d53f7302ddf8a2648f1fba2-6d-1786563822-1786545822
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Dsport +
-https://3.tvlibre.pe/dsportsplus/mono.m3u8?token=375e1be476efafbd6dc008e64fb44cc11bce8102-7f-1786563852-1786545852
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png",Fox Deportes
-https://4.tvlibre.pe/foxdeportes/mono.m3u8?token=0e1fc72032759f5d2898a85e8e227f8b6d132a1e-21-1786563952-1786545952
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/3840px-ESPN_7_logo.svg.png",ESPN 7
-https://5.tvlibre.pe/espn7/mono.m3u8?token=bc5aaba4e5ead9cc12a6dae9d334148bb3a784a2-b3-1786564001-1786546001
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/3840px-Caracol_Televisi%C3%B3n_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Caracol TV
-https://origen.tdtcloud.xyz/hls/CarHD1/index.m3u8?token=oYuG_gP0-86jgfmSh3eNwQ&expires=1786567382
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Canal_1_Colombia_2026.svg/3840px-Logo_Canal_1_Colombia_2026.svg.png",Canal 1
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(qJKpzBgJ1CSprXHeO0fQihaItgtTG0CS0p_ILRrqalP99MbmLJoE1p_j568bQtkIAYDv5LcGE27gbgwHKs9HF-2mE92PpE-DNS9cltr6An10qU3NWuq8-5Jyw4oVTuN0)/cloud/3/x9nvvkc/s/live-480.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-wBEgEU5NbKrhptuFaucpsW0QQaIM5Hvx1urHO00nG70zHXQqeavowcUqCCvP6UvIS9Vx6XN2jsjOiD6hTuYIg",Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",RCN Novelas
-https://cdnlive.klicgo.net/rcnnovelas/live/chunklist_w156607149.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20210218135608&path-prefix=es",La Kalle
-https://co-e1-p-e-ar3.cdn.mdstrm.com/live-stream-gdai/58d191f07290fbb058025843/linear/hls/pa/event/RRmIwzY8SeypJ5-icasjpw/stream/3ccebe99-416a-4db5-8cea-a2e2adcd68e1:MRN2/master.m3u8?aid=589b127df30bc52f54100dcb&adInsertionGoogleStreamId=3ccebe99-416a-4db5-8cea-a2e2adcd68e1%3AMRN2&pid=KuWOgGhuGPC68q8vJVtZIwYKQFMdXp4X&sid=JfWwnxrRQAuZkgPV0sywc8h86T9u9IPZ&uid=043XWhp7EUvaLxnpprbKJpRH0WxxLTrC&es=co-e1-p-e-ar3.cdn.mdstrm.com&ote=1786637555385&ot=E1ZVt5EOMldj3DHNkXBLNQ&proto=https&pz=us&access_token=wG2Jh0iYen8tTqMAN1pDHPq4x2UQ1m59Czb9gm6DpmxzU4XbkK6rh2jrdyP2iCfkHYne9nNAf00
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1280px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png",ESPN 4
-https://7.tvlibre.pe/espn4/mono.m3u8?token=3777aaaa39b37e18bb1b17408b78479e9976a8df-82-1786569789-1786551789
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png",Win Sports
-https://bmf0aw9u.fubo18.com/winsports/mono.m3u8?token=837681d373d7038d93d862088a39a55a83da2871-f6-1786570210-1786552210
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png",Win Sports +
-https://s1.tudeporteshoy.xyz/winplus/tracks-v1a1/mono.m3u8?ip=45.229.73.81&token=f8896057b168169205c959e819c681ef53bf61f2-19-1786598217-1786544217
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",TNT Sport Premium
-https://5.tvlibre.pe/tntsportschile/mono.m3u8?token=33a5a54e8b9b5a79c5e737947f048c9b1791f373-c6-1786581000-1786563000
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",ECUAVISA
-https://4.tvlibre.pe/ecdf/mono.m3u8?token=ed13d99722dcc5958fdd8dbf9f99999d4090ab1c-25-1786581108-1786563108
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUND
-https://2.tvlibre.pe/tudn/mono.m3u8?token=9902d365e5f0d16bf45ccd9d6b8d894cc32be5ba-66-1786581223-1786563223
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/32/ClaroSportsLogo.png/revision/latest?cb=20151222200513&path-prefix=es",Claro Sports
-https://se.tudeporteshoy.xyz/clarosports/tracks-v1a1/mono.m3u8?ip=45.229.73.81&token=228127fe532dab6371dd7a05d8e51f403097b6b2-b7-1786609249-1786555249
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/960px-Caracol_Televisi%C3%B3n_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-name="Caracol Television" tvg-language="es" group-title="TV",Caracol Television
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423790.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Caracol_HD_Internacional.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" tvg-name="Caracol TV Internacional" tvg-language="es" group-title="TV",Caracol TV Internacional
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/105.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" tvg-name="RCN Novelas" tvg-language="es" group-title="TV",RCN Novelas
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423804.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" tvg-name="RCN" tvg-language="es" group-title="TV",RCN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-wBEgEU5NbKrhptuFaucpsW0QQaIM5Hvx1urHO00nG70zHXQqeavowcUqCCvP6UvIS9Vx6XN2jsjOiD6hTuYIg" tvg-name="Señal Colombia" tvg-language="es" group-title="TV",Señal Colombia
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423806.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoon-network-toon/images/1/1a/CARTOON_NETWORK_logo_%281%29.png/revision/latest?cb=20121126174122&path-prefix=es" tvg-name="Cartoon Network" tvg-language="es" group-title="TV",Cartoon Network
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1913.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" tvg-name="Discovery Kids" tvg-language="es" group-title="TV",Discovery Kids
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1914.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nickelodeon_2023_logo_%28short_name%29.svg/3840px-Nickelodeon_2023_logo_%28short_name%29.svg.png" tvg-name="Nickelodeon" tvg-language="es" group-title="TV",Nickelodeon
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1920.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/2017_Disney_Junior_logo.png" tvg-name="Disney Junior" tvg-language="es" group-title="TV",Disney Junior
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/268321.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-name="ESPN" tvg-language="es" group-title="TV",ESPN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/136331.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-name="ESPN 2" tvg-language="es" group-title="TV",ESPN 2
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/136323.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-name="ESPN 3" tvg-language="es" group-title="TV",ESPN 3
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/117891.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" tvg-name="ESPN 4" tvg-language="es" group-title="TV",ESPN 4
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138860.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-name="ESPN 5" tvg-language="es" group-title="TV",ESPN 5
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138904.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-name="Dsports" tvg-language="es" group-title="TV",Dsports
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/95.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/3840px-TyC_Sports_logo.svg.png" tvg-name="TYC SPORTS" tvg-language="es" group-title="TV",TYC SPORTS
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/37.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" tvg-name="TNT Sports Premium" tvg-language="es" group-title="TV",TNT Sports Premium
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/189454.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/3840px-TNT_Sports_2021_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-name="TNT Sports" tvg-language="es" group-title="TV",TNT Sports
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423745.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1280px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-name="EL Chavo Del 8" tvg-language="es" group-title="TV",EL Chavo Del 8
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/394728.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6a2f74ffe43b1c1c76b4b8c8/fb540444-dc9c-46ed-9e84-6776efba7e94/gray_Animal_Planet.png" tvg-name="Animal Planet" tvg-language="es" group-title="TV",Animal Planet
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/139546.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/250px-History_Logo_2008-2015.svg.png" tvg-name="History" tvg-language="es" group-title="TV",History
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/313126.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" tvg-name="History 2" tvg-language="es" group-title="TV",History 2
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/139540.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" tvg-name="TNT" tvg-language="es" group-title="TV",TNT
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134355.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-name="Sony Channel" tvg-language="es" group-title="TV",Sony Channel
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/330520.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/FX_international.svg/revision/latest/scale-to-width-down/250?cb=20231113150044" tvg-name="FX" tvg-language="es" group-title="TV",FX
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/268277.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" tvg-name="Golden Plus" tvg-language="es" group-title="TV",Golden Plus
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/268280.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/32/ClaroSportsLogo.png/revision/latest?cb=20151222200513&path-prefix=es" tvg-name="Claro Sports" tvg-language="es" group-title="TV",Claro Sports
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/136389.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/24horashd.png" tvg-name="24 Horas" tvg-language="es" group-title="TV",24 Horas
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134306.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/A24.png" tvg-name="A24" tvg-language="es" group-title="TV",A24
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/40.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/amc.png" tvg-name="AMC" tvg-language="es" group-title="TV",AMC
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134321.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5M-mkCFEWxtPY-YGkKTZy2pXixxPe7Yq38Q&s" tvg-name="América TV" tvg-language="es" group-title="TV",América TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/189412.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" tvg-name="América TV Perú" tvg-language="es" group-title="TV",América TV Perú
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423976.m3u8
+#EXTINF:-1 tvg-logo="https://immaa.xyz/ESannttna3.png" tvg-name="Antena 3" tvg-language="es" group-title="TV",Antena 3
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/141163.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/atbbolivia.png" tvg-name="ATB" tvg-language="es" group-title="TV",ATB
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/52.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-pe.png" tvg-name="ATV" tvg-language="es" group-title="TV",ATV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423988.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/axn.png" tvg-name="AXN" tvg-language="es" group-title="TV",AXN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134322.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/azteca7.png" tvg-name="Azteca 7" tvg-language="es" group-title="TV",Azteca 7
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/501.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iNF4gHjmDxEoj-pbCENE6F5kJXPsoceLGLkU8yiZR_pLPsno1MZUEAGLtLes-Jtco9xEWpmC=s900-c-k-c0x00ffffff-no-rj" tvg-name="Azteca Guatemala" tvg-language="es" group-title="TV",Azteca Guatemala
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/449.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/azunonew.png" tvg-name="Azteca Uno" tvg-language="es" group-title="TV",Azteca Uno
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/542.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/babyfirst.png" tvg-name="BabyTV" tvg-language="es" group-title="TV",BabyTV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1926.m3u8
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_c-music-tv-llega-a-latinoamrica.jpg" tvg-name="Bandamax" tvg-language="es" group-title="TV",Bandamax
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/140497.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" tvg-name="BBC World News" tvg-language="es" group-title="TV",BBC World News
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1487.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/boliviatvnuevo.png" tvg-name="Bolivia TV" tvg-language="es" group-title="TV",Bolivia TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/51.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-0-kpXE5cdAo/Wc_piezukdI/AAAAAAAABpU/_sry2Rq2mqUApWhEqZ1bkHSfYsrj3dGkgCLcBGAs/w200-h200/c5n-2017.png" tvg-name="C5N" tvg-language="es" group-title="TV",C5N
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/189409.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias" tvg-language="es" group-title="TV",Cable Noticias
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423782.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/cadenaabolivia.png" tvg-name="Cadena A" tvg-language="es" group-title="TV",Cadena A
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/57.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/calitv.png" tvg-name="Cali TV" tvg-language="es" group-title="TV",Cali TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/127.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_np0rr7qb_zGRxwTYJXxFGXeVAoGKrlPj8s4SUyJwsRLA=s900-c-k-c0x00ffffff-no-rj" tvg-name="Canal 10 Uruguay" tvg-language="es" group-title="TV",Canal 10 Uruguay
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1762.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/canal11.png" tvg-name="Canal 11 Honduras" tvg-language="es" group-title="TV",Canal 11 Honduras
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKCPWy5a9r7t-zvC9V-2iEBNuvimhDfQgCg&s" tvg-name="Canal 11 Nicaragua" tvg-language="es" group-title="TV",Canal 11 Nicaragua
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/578.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cana13chilee.png" tvg-name="Canal 13" tvg-language="es" group-title="TV",Canal 13
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423749.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLkipe0qDtMbaOdwbFVCIsSCAE0jWPJQ6TzA&s" tvg-name="Canal 2 Nicaragua" tvg-language="es" group-title="TV",Canal 2 Nicaragua
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/572.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pU4FZeXGRqPghb4sY6GOHJczOomShVB9fQ&s" tvg-name="Canal 2 TCS" tvg-language="es" group-title="TV",Canal 2 TCS
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/328.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WZzgbF-greWCBl8px7ohEfbqXhN_WQl0X8KH57sZKaYG4BITRbxHrn9lCaUhXsteZFPofmfC=s900-c-k-c0x00ffffff-no-rj" tvg-name="Canal 3 Guatemala" tvg-language="es" group-title="TV",Canal 3 Guatemala
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/447.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5P1TIVAt2D99plCMhgXFieatR9-81O1fmWQFw0fKzh3OqJiy26ScKu6IyDB_fnnevfHZgV7Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Canal 4 Nicaragua" tvg-language="es" group-title="TV",Canal 4 Nicaragua
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/573.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkD4gta4ypIwHDqUlNJfW8WQaScj-EQbVx-w&s" tvg-name="Canal 4 TCS" tvg-language="es" group-title="TV",Canal 4 TCS
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/339.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXkjWOZ7v07Cg-OGgUlQSUwCBtWn0Iq3aiUs4ATN5hlWTU474wZ-voqKuj1MYk7d9KnEvwWVKkI=s900-c-k-c0x00ffffff-no-rj" tvg-name="Canal 4 Uruguay" tvg-language="es" group-title="TV",Canal 4 Uruguay
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1751.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/canal5.png" tvg-name="Canal 5" tvg-language="es" group-title="TV",Canal 5
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/505.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net//LOGOS/canal5ellider.png" tvg-name="Canal 5 Honduras" tvg-language="es" group-title="TV",Canal 5 Honduras
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/472.m3u8
+#EXTINF:-1 tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122120/Canal-6-1080x1080-1.jpg" tvg-name="Canal 6 TCS" tvg-language="es" group-title="TV",Canal 6 TCS
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/330.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHqRJz7hA60w5hQLxZopODuHyv1Lp7BA2DQ&s" tvg-name="Canal 7 Guatemala" tvg-language="es" group-title="TV",Canal 7 Guatemala
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/448.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" tvg-name="Canal Capital" tvg-language="es" group-title="TV",Canal Capital
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423785.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/canaluno.png" tvg-name="Canal Uno" tvg-language="es" group-title="TV",Canal Uno
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423777.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/caracolinternacional.png" tvg-name="Caracol Internacional" tvg-language="es" group-title="TV",Caracol Internacional
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423779.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/cartoonitonew.png" tvg-name="Cartoonito" tvg-language="es" group-title="TV",Cartoonito
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1912.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ATD_mKm3Hyj1X7VCNBVkiPpIUaiGQEClONydUfgacU3Y9bMb0TqcmeA45-xyDPXE2K0SNtjpytw=s900-c-k-c0x00ffffff-no-rj" tvg-name="CDN" tvg-language="es" group-title="TV",CDN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/749.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCo6wpjno6b1PjkAWomvy5LfHIrV39cXsf1Jm-Y8bbRxRwuIL55u7lhE_eEynV9_u8BWwP5xtwIzXZ5zvtzxcF26zMMfJZyip9TFS9tBhuu6t5VWVTLcuCsgB2J9Lzjxa9goRk_ru4sdu-/w700-h400-p-k-no-nu/CERTV+Canal+4++4RD.png" tvg-name="CERTV" tvg-language="es" group-title="TV",CERTV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/736.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/chilevision.png" tvg-name="Chilevisión" tvg-language="es" group-title="TV",Chilevisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423743.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CINEAR/EXPORTACION_WEB/SS/CINEAR_t-290x163.png" tvg-name="Cine AR" tvg-language="es" group-title="TV",Cine AR
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/189423.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/cinecanal.png" tvg-name="Cinecanal" tvg-language="es" group-title="TV",Cinecanal
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134323.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/Cinemax.png" tvg-name="Cinemax" tvg-language="es" group-title="TV",Cinemax
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134324.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/citytv.png" tvg-name="City TV" tvg-language="es" group-title="TV",City TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423797.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/ciudadmagazine.png" tvg-name="Ciudad Magazine" tvg-language="es" group-title="TV",Ciudad Magazine
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/30.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" tvg-name="Clan TV" tvg-language="es" group-title="TV",Clan TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/401802.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/cnnchilenew1.png" tvg-name="CNN Chile" tvg-language="es" group-title="TV",CNN Chile
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/136201.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQj-qNvZ2PIe_XaU4rZV4RLm5OWsqgGft6Lw&s" tvg-name="CNN en Español" tvg-language="es" group-title="TV",CNN en Español
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1463.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5CpJ8BXedNxdBF4jnS97wqCORnXUP01nb7k1eITWTf8ajscuid2WaolfNUekwJIKmaI&usqp=CAU" tvg-name="Color Visión" tvg-language="es" group-title="TV",Color Visión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/723.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/comedy_central.png" tvg-name="Comedy Central" tvg-language="es" group-title="TV",Comedy Central
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/293440.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/cronica.png" tvg-name="Crónica TV" tvg-language="es" group-title="TV",Crónica TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/27.m3u8
+#EXTINF:-1 tvg-logo="https://immaa.xyz/CuatroFHD.png" tvg-name="Cuatro" tvg-language="es" group-title="TV",Cuatro
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/141165.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOOf5xAb1_jQVYDAUhxRHQ0X4TmNkCQuDHQ&s" tvg-name="Cubavisión" tvg-language="es" group-title="TV",Cubavisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/277.m3u8
+#EXTINF:-1 tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JFM6tAmuD4MUWeo9NFBLKP3OXH2Y6YQ_54TPqrp3G1P7.png" tvg-name="Cubavisión Internacional" tvg-language="es" group-title="TV",Cubavisión Internacional
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/280.m3u8
+#EXTINF:-1 tvg-logo="https://jplayerpro.com/img/dazn.png" tvg-name="DAZN" tvg-language="es" group-title="TV",DAZN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/298838.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/deporttv.png" tvg-name="DeporTV" tvg-language="es" group-title="TV",DeporTV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/8.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/DHEC.png" tvg-name="DHE" tvg-language="es" group-title="TV",DHE
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/130.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discoverynuevo.png" tvg-name="Discovery Channel" tvg-language="es" group-title="TV",Discovery Channel
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/139549.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/discoveryscnew.png" tvg-name="Discovery Science" tvg-language="es" group-title="TV",Discovery Science
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/143996.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discoveryworld.png" tvg-name="Discovery World" tvg-language="es" group-title="TV",Discovery World
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/139530.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/disneychannelnew1.png" tvg-name="Disney Channel" tvg-language="es" group-title="TV",Disney Channel
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1915.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/dc.png" tvg-name="Distrito Comedia" tvg-language="es" group-title="TV",Distrito Comedia
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/144000.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/cinemadreamworks.png" tvg-name="DreamWorks" tvg-language="es" group-title="TV",DreamWorks
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/216011.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/dwep.png" tvg-name="DW Español" tvg-language="es" group-title="TV",DW Español
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/144001.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/ecuadortvnew.png" tvg-name="Ecuador TV" tvg-language="es" group-title="TV",Ecuador TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/295.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/ecuavisa.png" tvg-name="Ecuavisa" tvg-language="es" group-title="TV",Ecuavisa
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/298.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jvG-2caUu5L0CJ5Fws9d-4kyo1eIIlxhOwJPaitZs3IpmBUmuOP9ATlycob9uWFz8jkPE2AT9sI=s900-c-k-c0x00ffffff-no-rj" tvg-name="El Financiero Bloomberg" tvg-language="es" group-title="TV",El Financiero Bloomberg
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/335447.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/elgourmet.png" tvg-name="El Gourmet" tvg-language="es" group-title="TV",El Gourmet
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/144018.m3u8
+#EXTINF:-1 tvg-logo="https://resellermv.com/img/espnlat.png" tvg-name="ESPN Deportes" tvg-language="es" group-title="TV",ESPN Deportes
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138846.m3u8
+#EXTINF:-1 tvg-logo="https://jplayerpro.com/img/espn.png" tvg-name="ESPN Extra" tvg-language="es" group-title="TV",ESPN Extra
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/298374.m3u8
+#EXTINF:-1 tvg-logo="https://jplayerpro.com/img/espn.png" tvg-name="ESPN Premium" tvg-language="es" group-title="TV",ESPN Premium
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/298800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" tvg-name="Estrella News" tvg-language="es" group-title="TV",Estrella News
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/295372.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" tvg-name="Exitosa TV" tvg-language="es" group-title="TV",Exitosa TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423982.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/foodnetwork.png" tvg-name="Food Network" tvg-language="es" group-title="TV",Food Network
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/528.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDFrONz.png" tvg-name="Foro TV" tvg-language="es" group-title="TV",Foro TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/295337.m3u8
+#EXTINF:-1 tvg-logo="https://resellermv.com/img/foxsplat.png" tvg-name="Fox Sports" tvg-language="es" group-title="TV",Fox Sports
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138945.m3u8
+#EXTINF:-1 tvg-logo="https://resellermv.com/img/foxsp2lat.png" tvg-name="Fox Sports 2" tvg-language="es" group-title="TV",Fox Sports 2
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138864.m3u8
+#EXTINF:-1 tvg-logo="https://resellermv.com/img/foxsp3lat.png" tvg-name="Fox Sports 3" tvg-language="es" group-title="TV",Fox Sports 3
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138845.m3u8
+#EXTINF:-1 tvg-logo="https://resellermv.com/img/foxspprelat.png" tvg-name="Fox Sports Premium" tvg-language="es" group-title="TV",Fox Sports Premium
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138869.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" tvg-name="France 24 Español" tvg-language="es" group-title="TV",France 24 Español
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1485.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/fxm.png" tvg-name="FXM" tvg-language="es" group-title="TV",FXM
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134333.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/galavision.png" tvg-name="Galavisión" tvg-language="es" group-title="TV",Galavisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/509.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/gamatv.png" tvg-name="Gamavisión" tvg-language="es" group-title="TV",Gamavisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/324.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRG-pMyN1FRjd03heQnH3WlILNKk9laj7e1g&s" tvg-name="Globovisión" tvg-language="es" group-title="TV",Globovisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1457.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/golden1.png" tvg-name="Golden" tvg-language="es" group-title="TV",Golden
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134334.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE100LDBwGpPj9InWBd1LS9WRo3gOcmc1P2GMlLx2FgWsN.png" tvg-name="Golden Edge" tvg-language="es" group-title="TV",Golden Edge
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/268279.m3u8
+#EXTINF:-1 tvg-logo="https://resellermv.com/img/golfchlat.png" tvg-name="Golf Channel" tvg-language="es" group-title="TV",Golf Channel
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/141362.m3u8
+#EXTINF:-1 tvg-logo="https://www.prensalibre.com/wp-content/uploads/2018/12/a98dd3f9-34e5-43e8-991b-b1ec6df17fa9.jpg?quality=52" tvg-name="Guatevisión" tvg-language="es" group-title="TV",Guatevisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/446.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1w9VF6QlZElod2MW2vp5GrPJAhGIy08B-T3wh8oKKSl4.png" tvg-name="HBO" tvg-language="es" group-title="TV",HBO
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/268285.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/hbo21.png" tvg-name="HBO 2" tvg-language="es" group-title="TV",HBO 2
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134314.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/hbofamily.png" tvg-name="HBO Family" tvg-language="es" group-title="TV",HBO Family
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134320.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/hbomundib.png" tvg-name="HBO Mundi" tvg-language="es" group-title="TV",HBO Mundi
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/268286.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/HBOMASB.png" tvg-name="HBO Plus" tvg-language="es" group-title="TV",HBO Plus
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134315.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/hbopop.png" tvg-name="HBO Pop" tvg-language="es" group-title="TV",HBO Pop
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134318.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/hboxtream.png" tvg-name="HBO Xtreme" tvg-language="es" group-title="TV",HBO Xtreme
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134316.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JdMcbKW/hkg-MSx-Bw-400x400.jpg" tvg-name="HCH" tvg-language="es" group-title="TV",HCH
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423908.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lyf8ztG0s1bh6OV-3AQLHG5qv4CE6GyJ3EbJT9RtyP4A=s900-c-k-c0x00ffffff-no-rj" tvg-name="HTV" tvg-language="es" group-title="TV",HTV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/103454.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/imagen.png" tvg-name="Imagen TV" tvg-language="es" group-title="TV",Imagen TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/537.m3u8
+#EXTINF:-1 tvg-logo="https://immaa.xyz/La1FHD.png" tvg-name="La 1" tvg-language="es" group-title="TV",La 1
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/141157.m3u8
+#EXTINF:-1 tvg-logo="https://immaa.xyz/La2FHD.png" tvg-name="La 2" tvg-language="es" group-title="TV",La 2
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/141160.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/lared.png" tvg-name="La Red" tvg-language="es" group-title="TV",La Red
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423759.m3u8
+#EXTINF:-1 tvg-logo="https://immaa.xyz/LaSextaFHD.png" tvg-name="La Sexta" tvg-language="es" group-title="TV",La Sexta
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/141169.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/canal2.png" tvg-name="Las Estrellas" tvg-language="es" group-title="TV",Las Estrellas
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/144046.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/latina-pe.png" tvg-name="Latina" tvg-language="es" group-title="TV",Latina
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423977.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/lifetime1.png" tvg-name="Lifetime" tvg-language="es" group-title="TV",Lifetime
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/144026.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/ln.png" tvg-name="LN+" tvg-language="es" group-title="TV",LN+
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/7.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/mega4k.png" tvg-name="Mega" tvg-language="es" group-title="TV",Mega
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/137489.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_de_meridiano_television_desde_1997.png/revision/latest?cb=20210705220530&path-prefix=es" tvg-name="Meridiano TV" tvg-language="es" group-title="TV",Meridiano TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/194534.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/metro.png" tvg-name="Metro" tvg-language="es" group-title="TV",Metro
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/6.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/milenio.png" tvg-name="Milenio TV" tvg-language="es" group-title="TV",Milenio TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/532.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-name="MTV" tvg-language="es" group-title="TV",MTV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/103457.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-name="MTV Hits" tvg-language="es" group-title="TV",MTV Hits
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/140504.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-name="MTV Live" tvg-language="es" group-title="TV",MTV Live
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/140505.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Dl5gOHzVsAA55vk.jpg" tvg-name="Multimedios" tvg-language="es" group-title="TV",Multimedios
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/295345.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgTM15xM/Sin-titulo-22-removebg-preview.png" tvg-name="Nat Geo" tvg-language="es" group-title="TV",Nat Geo
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/334730.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/nickjrnew.png" tvg-name="Nick Jr." tvg-language="es" group-title="TV",Nick Jr.
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/329743.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/ntn24.png" tvg-name="NTN24" tvg-language="es" group-title="TV",NTN24
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/133.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/ntn24new.png" tvg-name="NTN24 Latino" tvg-language="es" group-title="TV",NTN24 Latino
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/332508.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/canaloncetv.png" tvg-name="Once TV" tvg-language="es" group-title="TV",Once TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/508.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7DZcAMC_Qrysnb8TW96rKA0sJGONM-PFaUrUR63zBMQ&s=10" tvg-name="PakaPaka" tvg-language="es" group-title="TV",PakaPaka
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/302853.m3u8
+#EXTINF:-1 tvg-logo="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7828162/panamericana-hd-clipart-sm.png" tvg-name="Panamericana" tvg-language="es" group-title="TV",Panamericana
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423979.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/paraguaytvnew.png" tvg-name="Paraguay TV" tvg-language="es" group-title="TV",Paraguay TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/617.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/Paramount.png" tvg-name="Paramount Network" tvg-language="es" group-title="TV",Paramount Network
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134340.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/pasiones.png" tvg-name="Pasiones" tvg-language="es" group-title="TV",Pasiones
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/299222.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/13Recnew.png" tvg-name="REC TV" tvg-language="es" group-title="TV",REC TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/84.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/reduno1.png" tvg-name="Red Uno" tvg-language="es" group-title="TV",Red Uno
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423737.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvNXiv4DWIDWtxHgYFf0y6Go6wC0_AkDS9A&s" tvg-name="RPC Panamá" tvg-language="es" group-title="TV",RPC Panamá
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/589.m3u8
+#EXTINF:-1 tvg-logo="http://startv.solutions:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjZaEzmrsVmnpYMqAhkpsFZPOQF5qYZzS-_hUueiz4nqAM1JHtXZyqv3nzuJ1UpSFITHXztMw2rVVDRWwrBkniJA.png" tvg-name="RPC Paraguay" tvg-language="es" group-title="TV",RPC Paraguay
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/424028.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/RTespanol.png" tvg-name="RT en Español" tvg-language="es" group-title="TV",RT en Español
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1486.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/rtpneww.png" tvg-name="RTP Bolivia" tvg-language="es" group-title="TV",RTP Bolivia
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/55.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/rts.png" tvg-name="RTS Ecuador" tvg-language="es" group-title="TV",RTS Ecuador
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/305.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v47Nv30/seer.png" tvg-name="Sertv" tvg-language="es" group-title="TV",Sertv
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423954.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/snt-hd.png" tvg-name="SNT" tvg-language="es" group-title="TV",SNT
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/623.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/star.channel.png" tvg-name="Star Channel" tvg-language="es" group-title="TV",Star Channel
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134346.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/syfynew.png" tvg-name="Syfy" tvg-language="es" group-title="TV",Syfy
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134352.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tc.png" tvg-name="TC Televisión" tvg-language="es" group-title="TV",TC Televisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/307.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19oxwV1bqeiUA8x8kaEzWu-GAoeMrAj0jWtGcefBJubO.png" tvg-name="TCM" tvg-language="es" group-title="TV",TCM
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/268304.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kfpYc5/6.png" tvg-name="TCS" tvg-language="es" group-title="TV",TCS
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423895.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" tvg-name="Tele Antillas" tvg-language="es" group-title="TV",Tele Antillas
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/312592.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKWXsqeccLh4s9wxYyJzDAh_rW0VtUBgHDg&s" tvg-name="Tele Rebelde" tvg-language="es" group-title="TV",Tele Rebelde
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/279.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/Teleamazonas.png" tvg-name="Teleamazonas" tvg-language="es" group-title="TV",Teleamazonas
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/289.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/teleantioquia.png" tvg-name="Teleantioquia" tvg-language="es" group-title="TV",Teleantioquia
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423808.m3u8
+#EXTINF:-1 tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" tvg-name="Telecafé" tvg-language="es" group-title="TV",Telecafé
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423810.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/telecaribe.png" tvg-name="Telecaribe" tvg-language="es" group-title="TV",Telecaribe
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423812.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBF149W9zH5x1RK8uCHJBaz4sua7446hgnVIFSIFGgeEUEAwEeJ7-eFjZugX6RQm75UHF5xD0Ei2LlJCoZVif5cj8r6dRB2avNryzkMWHp3LknSlhN6mkVgCw5Sid6t81Ogwh47Do5n-t/w700-h400-p-k-no-nu/Telecentro+en+vivo.jpg" tvg-name="Telecentro" tvg-language="es" group-title="TV",Telecentro
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/725.m3u8
+#EXTINF:-1 tvg-logo="https://immaa.xyz/TelecincoFHD.png" tvg-name="Telecinco" tvg-language="es" group-title="TV",Telecinco
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/141167.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/C2i3XoUq_FewOJCSJviHVqKk3XHc8PE3DMHpHqWueexlpZus-2r_7DEes5bKtM0LVJVlbquDEw=s900-c-k-c0x00ffffff-no-rj" tvg-name="Teledoce" tvg-language="es" group-title="TV",Teledoce
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1740.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s900-c-k-c0x00ffffff-no-rj" tvg-name="Telefe" tvg-language="es" group-title="TV",Telefe
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/189413.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/Telefuturo.png" tvg-name="Telefuturo" tvg-language="es" group-title="TV",Telefuturo
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/609.m3u8
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_c-music-tv-llega-a-latinoamrica.jpg" tvg-name="Telehit" tvg-language="es" group-title="TV",Telehit
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/140508.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/telemedellin.png" tvg-name="Telemedellín" tvg-language="es" group-title="TV",Telemedellín
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423814.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0tge-Ig_7z9I1w9MjF6v6AcJDX1imyhUOQ&s" tvg-name="Telemetro" tvg-language="es" group-title="TV",Telemetro
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/591.m3u8
+#EXTINF:-1 tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16ipy6us0hTsnL00DImDB-9oYnN0w-f3nUUvq3Mkgjfa.png" tvg-name="Telemundo" tvg-language="es" group-title="TV",Telemundo
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/369171.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/telepacifico.png" tvg-name="Telepacífico" tvg-language="es" group-title="TV",Telepacífico
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423816.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-name="TeleSUR" tvg-language="es" group-title="TV",TeleSUR
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/314119.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/telesurnew.png" tvg-name="TeleSUR Latino" tvg-language="es" group-title="TV",TeleSUR Latino
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/194526.m3u8
+#EXTINF:-1 tvg-logo="https://www.nacion.com/resizer/v2/VCFXSJYN6JFKLHQ6XEIHAOQQCU.jpg?smart=true&auth=1f45cc60aeb20f577e687cf105972b34020abf9d88cc87b9e0517d86f83dc054&width=377&height=212" tvg-name="Teletica" tvg-language="es" group-title="TV",Teletica
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/206.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Televen" tvg-language="es" group-title="TV",Televen
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423959.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000190433008-gct8gy-t500x500.jpg" tvg-name="Televicentro" tvg-language="es" group-title="TV",Televicentro
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423915.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/televisamonterrey.png" tvg-name="Televisa Monterrey" tvg-language="es" group-title="TV",Televisa Monterrey
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/295364.m3u8
+#EXTINF:-1 tvg-logo="https://jplayerpro.com/img/tigo.png" tvg-name="Tigo Sports" tvg-language="es" group-title="TV",Tigo Sports
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/294377.m3u8
+#EXTINF:-1 tvg-logo="http://visiona2.digital:8080/images/d018146bd4b48997c18734748263ac09.png" tvg-name="TLC" tvg-language="es" group-title="TV",TLC
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/404518.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/Tlnovelas_logo.png" tvg-name="TLNovelas" tvg-language="es" group-title="TV",TLNovelas
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/526.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7SCWVB0/image.png" tvg-name="TN" tvg-language="es" group-title="TV",TN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/302850.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tooncast.png" tvg-name="Tooncast" tvg-language="es" group-title="TV",Tooncast
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1921.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tsi.png" tvg-name="TSi Honduras" tvg-language="es" group-title="TV",TSi Honduras
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/477.m3u8
+#EXTINF:-1 tvg-logo="https://resellermv.com/img/tudnlat.png" tvg-name="TUDN" tvg-language="es" group-title="TV",TUDN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/138883.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3HascZsMw3xohKBO46o3IjU-rd6v6gQfwdhVlvYSar987WGDN_xeiersHvMW9G-qn2prR_5N=s900-c-k-c0x00ffffff-no-rj" tvg-name="TV Ciudad" tvg-language="es" group-title="TV",TV Ciudad
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1741.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" tvg-name="TV Perú" tvg-language="es" group-title="TV",TV Perú
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423986.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TVPBLICAARGENTINA/EXPORTACION_WEB/SS/TVPBLICAARGENTINA_t-290x163.png" tvg-name="TV Pública" tvg-language="es" group-title="TV",TV Pública
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/302848.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRspLjD.png" tvg-name="TV UNAM" tvg-language="es" group-title="TV",TV UNAM
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/295369.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tvmas.png" tvg-name="TV+" tvg-language="es" group-title="TV",TV+
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/118691.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" tvg-name="TVE Internacional" tvg-language="es" group-title="TV",TVE Internacional
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/401984.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHB7SJryDAv2TE11yKm1aE_OKW8G564brHPcVNU3lZIqPGCeU-63Il5BSIXXAJfkdodnY&usqp=CAU" tvg-name="TVes" tvg-language="es" group-title="TV",TVes
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/1453.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tvn.png" tvg-name="TVN" tvg-language="es" group-title="TV",TVN
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/423773.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4FedQTJD1LobGOwsuUjPqfHBZJCXa4BtZuf_2dPJ7fR9EQ9fQm9nBiCJLgh43HdBPd_ngw2j4A=s900-c-k-c0x00ffffff-no-rj" tvg-name="TVN Panamá" tvg-language="es" group-title="TV",TVN Panamá
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/593.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/ucv.png" tvg-name="UCV TV" tvg-language="es" group-title="TV",UCV TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134968.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/unicablenew.png" tvg-name="Unicable" tvg-language="es" group-title="TV",Unicable
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/525.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/unicanal.png" tvg-name="Unicanal" tvg-language="es" group-title="TV",Unicanal
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/622.m3u8
+#EXTINF:-1 tvg-logo="http://guiaepg.lat/LOGOS/uniteltv.png" tvg-name="Unitel" tvg-language="es" group-title="TV",Unitel
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/63.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/universaltv.png" tvg-name="Universal Channel" tvg-language="es" group-title="TV",Universal Channel
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/134356.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/universop.png" tvg-name="Universo" tvg-language="es" group-title="TV",Universo
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/139560.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_cdXM1zQ_5DxIfuMp37Nyq_yi9knm3mZ2eZFdirkl6_.png" tvg-name="Univisión" tvg-language="es" group-title="TV",Univisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/269706.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X0u1xzEaM0-bBDNItW0NKjUGew-_QjTtAuj-hMYsqhsWtaFB8qyM4cVXgfbJQwNMN4RQwZa6Dg=s900-c-k-c0x00ffffff-no-rj" tvg-name="Venevisión" tvg-language="es" group-title="TV",Venevisión
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/194529.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThZU7JNN-e_5A_5KTOGRfwwcZJNpl_IJOSQ&s" tvg-name="VH1" tvg-language="es" group-title="TV",VH1
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/103449.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kC5BWfnrUNg/X9TRpVx6nZI/AAAAAAAA7mQ/pk0fZyjcHJsekshekBGm8lCpaiuqWGDTACLcBGAsYHQ/s0/volver-2016.png" tvg-name="Volver" tvg-language="es" group-title="TV",Volver
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/302846.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONOTteBKerZc0mFE2ZqxE1pycGUQiZVfDRw&s" tvg-name="WAPA" tvg-language="es" group-title="TV",WAPA
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/707.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/npbWNqB0jI1eqRNvZMK-dE7yF2SBjXNZRueoYh5dTI1fMXSToPsrA8PZgTSQ14X450DpvP6e9g=s900-c-k-c0x00ffffff-no-rj" tvg-name="Warner TV" tvg-language="es" group-title="TV",Warner TV
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/299235.m3u8
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/willax.png" tvg-name="Willax" tvg-language="es" group-title="TV",Willax
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/669.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/621px-Winsports.svg.png/revision/latest?cb=20140730052158" tvg-name="Win Sports" tvg-language="es" group-title="TV",Win Sports
+http://1streamtv.online:2095/live/462-102-1045/3bc16cc1/189494.m3u8
